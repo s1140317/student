@@ -1,0 +1,14 @@
+#include <iostream.h>
+    using namespace;
+    
+int main() {
+    cout << "1.快樂星球" << endl;
+    cout << "2.快樂 星球" << endl;
+    cout << "3.快樂\t星球" << endl;
+    cout << "4.快\n樂星球\n" << endl;
+    cout << "\"5.快樂\"" << endl;
+    cout << "\'6.快樂\'" << endl;
+    cout << "\\7.快樂\\" << endl;
+
+    return 0;
+}
